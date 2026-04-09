@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Pulau777: Situs Game Online Terbaik & Modern 2026</title>
+  
+  <meta name="description" content="Pulau777 adalah situs game online modern dengan akses cepat, tampilan premium, dan navigasi mudah. Nikmati berbagai pilihan game online terbaik dengan pengalaman bermain yang nyaman dan praktis." />
+  
+  <link rel="canonical" href="https://pulau7777.pages.dev/" />
+  
+  <meta name="google-site-verification" content="ERhmLk_NtJyqTgAfW-TNFjLOKSm9-hOfCyeycQLndkc" />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" href="https://cdn-proxy.globalcontentcloud.com/305/logo/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://cdn-proxy.globalcontentcloud.com/305/logo/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" href="https://cdn-proxy.globalcontentcloud.com/305/logo/favicon.ico">
+  <style>
+    :root {
+      --bg: #08111f;
+      --bg-soft: #0d1830;
+      --card: rgba(255,255,255,0.08);
+      --card-border: rgba(255,255,255,0.12);
+      --text: #ecf4ff;
+      --muted: #9ab0d0;
+      --primary: #4da3ff;
+      --primary-2: #6c63ff;
+      --accent: #2ee6a6;
+      --warning: #ffd166;
+      --shadow: 0 20px 70px rgba(0,0,0,0.35);
+      --radius: 24px;
+      --radius-sm: 16px;
+      --container: 1180px;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(108,99,255,0.20), transparent 28%),
+        radial-gradient(circle at top right, rgba(77,163,255,0.18), transparent 24%),
+        radial-gradient(circle at bottom center, rgba(46,230,166,0.10), transparent 26%),
+        linear-gradient(180deg, #07101d 0%, #091426 100%);
+      color: var(--text);
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    a { color: inherit; text-decoration: none; }
+    img { max-width: 100%; display: block; }
+
+    .container {
+      width: min(var(--container), calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    .glass {
+      background: var(--card);
+      border: 1px solid var(--card-border);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      box-shadow: var(--shadow);
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(7, 16, 29, 0.70);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      padding: 14px 0;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-weight: 800;
+      letter-spacing: 0.3px;
+      font-size: 1.05rem;
+    }
+
+    .brand-badge {
+      width: 42px;
+      height: 42px;
+      border-radius: 14px;
+      display: grid;
+      place-items: center;
+      background: linear-gradient(135deg, var(--primary), var(--primary-2));
+      box-shadow: 0 12px 30px rgba(77,163,255,0.28);
+      font-size: 1rem;
+      font-weight: 800;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 22px;
+      color: var(--muted);
+      font-weight: 500;
+      font-size: 0.95rem;
+    }
+
+    .nav-actions {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      border: 0;
+      cursor: pointer;
+      border-radius: 999px;
+      padding: 14px 22px;
+      font-weight: 700;
+      font-size: 0.96rem;
+      transition: 0.25s ease;
+    }
+
+    .btn:hover { transform: translateY(-2px); }
+    .btn-primary {
+      color: white;
+      background: linear-gradient(135deg, var(--primary), var(--primary-2));
+      box-shadow: 0 15px 30px rgba(77,163,255,0.25);
+    }
+    .btn-outline {
+      color: var(--text);
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.10);
+    }
+
+    .hero {
+      position: relative;
+      padding: 92px 0 56px;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 34px;
+      align-items: center;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 14px;
+      border-radius: 999px;
+      color: #d6e6ff;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.08);
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 18px;
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 0 6px rgba(46,230,166,0.16);
+    }
+
+    h1 {
+      margin: 0 0 18px;
+      font-size: clamp(2.4rem, 4.4vw, 4.8rem);
+      line-height: 1.04;
+      letter-spacing: -0.04em;
+    }
+
+    .gradient-text {
+      background: linear-gradient(135deg, #ffffff 0%, #bcd8ff 50%, #7bb8ff 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero p {
+      margin: 0 0 26px;
+      color: var(--muted);
+      font-size: 1.06rem;
+      max-width: 650px;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-bottom: 28px;
+    }
+
+    .hero-stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .stat {
+      padding: 18px;
+      border-radius: 20px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 1.35rem;
+      margin-bottom: 6px;
+    }
+
+    .stat span {
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .hero-card {
+      position: relative;
+      border-radius: 30px;
+      padding: 24px;
+      overflow: hidden;
+    }
+
+    .hero-card::before {
+      content: "";
+      position: absolute;
+      inset: -1px;
+      border-radius: inherit;
+      padding: 1px;
+      background: linear-gradient(135deg, rgba(255,255,255,0.25), rgba(255,255,255,0.04));
+      -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
+      mask-composite: exclude;
+    }
+
+    .panel {
+      background: linear-gradient(180deg, rgba(255,255,255,0.10), rgba(255,255,255,0.04));
+      border-radius: 24px;
+      padding: 22px;
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .panel-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 22px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .mini-pill {
+      padding: 8px 12px;
+      border-radius: 999px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      background: rgba(46,230,166,0.12);
+      color: #b8ffe8;
+      border: 1px solid rgba(46,230,166,0.20);
+    }
+
+    .promo-card {
+      border-radius: 24px;
+      padding: 22px;
+      background: linear-gradient(135deg, rgba(77,163,255,0.20), rgba(108,99,255,0.18));
+      border: 1px solid rgba(255,255,255,0.10);
+      margin-bottom: 18px;
+    }
+
+    .promo-card h3 {
+      margin: 0 0 10px;
+      font-size: 1.45rem;
+    }
+
+    .promo-card p {
+      margin: 0;
+      color: #d7e5fb;
+      font-size: 0.96rem;
+    }
+
+    .feature-list {
+      display: grid;
+      gap: 12px;
+    }
+
+    .feature-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 14px;
+      border-radius: 18px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .icon {
+      flex: 0 0 40px;
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
+      display: grid;
+      place-items: center;
+      background: rgba(255,255,255,0.08);
+      font-weight: 800;
+    }
+
+    section {
+      padding: 40px 0;
+    }
+
+    .section-head {
+      max-width: 760px;
+      margin-bottom: 24px;
+    }
+
+    .section-tag {
+      display: inline-block;
+      font-weight: 700;
+      font-size: 0.84rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #9bc7ff;
+      margin-bottom: 12px;
+    }
+
+    h2 {
+      font-size: clamp(1.8rem, 3vw, 3rem);
+      line-height: 1.1;
+      margin: 0 0 12px;
+      letter-spacing: -0.03em;
+    }
+
+    .section-head p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .card {
+      padding: 24px;
+      border-radius: 24px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .card h3 {
+      margin: 14px 0 10px;
+      font-size: 1.15rem;
+    }
+
+    .card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .steps {
+      counter-reset: step;
+      display: grid;
+      gap: 16px;
+    }
+
+    .step {
+      position: relative;
+      padding: 22px 22px 22px 82px;
+      border-radius: 22px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .step::before {
+      counter-increment: step;
+      content: counter(step);
+      position: absolute;
+      left: 22px;
+      top: 22px;
+      width: 42px;
+      height: 42px;
+      display: grid;
+      place-items: center;
+      border-radius: 14px;
+      background: linear-gradient(135deg, var(--primary), var(--primary-2));
+      font-weight: 800;
+    }
+
+    .step h3 {
+      margin: 0 0 8px;
+      font-size: 1.1rem;
+    }
+
+    .step p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .highlight {
+      padding: 26px;
+      border-radius: 28px;
+      background: linear-gradient(135deg, rgba(46,230,166,0.12), rgba(77,163,255,0.10));
+      border: 1px solid rgba(255,255,255,0.09);
+    }
+
+    .highlight ul {
+      margin: 16px 0 0;
+      padding-left: 20px;
+      color: var(--muted);
+    }
+
+    .highlight li + li { margin-top: 10px; }
+
+    .faq {
+      display: grid;
+      gap: 14px;
+    }
+
+    details {
+      border-radius: 20px;
+      padding: 18px 20px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    summary {
+      cursor: pointer;
+      font-weight: 700;
+      list-style: none;
+    }
+
+    summary::-webkit-details-marker { display: none; }
+
+    details p {
+      margin: 12px 0 0;
+      color: var(--muted);
+    }
+
+    .cta {
+      padding: 48px 0 80px;
+    }
+
+    .cta-box {
+      padding: 34px;
+      border-radius: 32px;
+      background: linear-gradient(135deg, rgba(108,99,255,0.22), rgba(77,163,255,0.18), rgba(46,230,166,0.12));
+      border: 1px solid rgba(255,255,255,0.10);
+      text-align: center;
+    }
+
+    .cta-box h2 {
+      margin-bottom: 14px;
+    }
+
+    .cta-box p {
+      max-width: 720px;
+      margin: 0 auto 24px;
+      color: #d8e5f8;
+    }
+
+    .trust-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .trust-badge {
+      padding: 9px 14px;
+      border-radius: 999px;
+      font-size: 0.85rem;
+      color: #d9ebff;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    footer {
+      border-top: 1px solid rgba(255,255,255,0.08);
+      color: var(--muted);
+    }
+
+    .footer-wrap {
+      padding: 24px 0 36px;
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    @media (max-width: 1024px) {
+      .hero-grid, .grid-3, .grid-2 {
+        grid-template-columns: 1fr;
+      }
+      .hero {
+        padding-top: 72px;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .nav-links { display: none; }
+      .nav {
+        padding: 12px 0;
+      }
+      .hero-stats {
+        grid-template-columns: 1fr;
+      }
+      .hero-actions, .nav-actions {
+        width: 100%;
+      }
+      .nav {
+        flex-wrap: wrap;
+      }
+      .btn {
+        width: 100%;
+      }
+      .cta-box, .hero-card, .card, .step, .highlight {
+        padding: 22px;
+      }
+      h1 {
+        font-size: 2.35rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <a href="/" class="brand">
+        <span class="brand-badge">P7</span>
+        <span>Pulau777</span>
+      </a>
+      <nav class="nav-links">
+        <a href="#fitur">Fitur</a>
+        <a href="#cara-main">Cara Main</a>
+        <a href="#keunggulan">Keunggulan</a>
+        <a href="#faq">FAQ</a>
+      </nav>
+      <div class="nav-actions">
+        <a class="btn btn-outline" href="#fitur">Lihat Game</a>
+        <a class="btn btn-primary" href="https://pulau-daftar.com/" target="_blank" rel="nofollow noopener">Masuk Sekarang</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="container hero-grid">
+        <div>
+          <div class="eyebrow"><span class="dot"></span> Platform game online modern dengan akses cepat dan navigasi mudah</div>
+          <h1><span class="gradient-text">Pulau777</span> adalah <strong>platform game online</strong> yang dirancang untuk pengalaman bermain yang cepat, nyaman, dan lebih praktis.</h1>
+          <p>
+            <strong>Pulau777</strong> hadir sebagai pilihan untuk kamu yang mencari <strong>game online</strong> dengan tampilan modern, akses ringan, dan alur navigasi yang tidak ribet. Dari halaman utama, pengunjung bisa langsung menemukan game favorit, kategori populer, pusat bantuan, dan tombol masuk ke portal utama dalam satu tampilan yang rapi. Dengan struktur halaman yang jelas, <strong>Pulau777</strong> dibuat untuk memberi pengalaman yang lebih nyaman bagi pemain baru maupun pemain aktif yang ingin masuk lebih cepat tanpa harus membuang waktu.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="https://pulau-daftar.com/" target="_blank" rel="nofollow noopener">Mulai Bermain</a>
+            <a class="btn btn-outline" href="#cara-main">Lihat Cara Main</a>
+          </div>
+          <div class="hero-stats">
+            <div class="stat">
+              <strong>Game Variatif</strong>
+              <span>Pilihan permainan online yang bisa dijelajahi lebih cepat dari satu halaman utama.</span>
+            </div>
+            <div class="stat">
+              <strong>Akses Cepat</strong>
+              <span>Halaman dirancang ringan agar proses masuk ke portal utama terasa lebih efisien.</span>
+            </div>
+            <div class="stat">
+              <strong>Mobile Friendly</strong>
+              <span>Tampilan tetap nyaman dibuka di desktop, tablet, maupun smartphone.</span>
+            </div>
+          </div>
+          <div class="trust-row">
+            <span class="trust-badge"><strong>Game Online</strong></span>
+            <span class="trust-badge"><strong>Akses Mudah</strong></span>
+            <span class="trust-badge"><strong>Tampilan Modern</strong></span>
+            <span class="trust-badge"><strong>Navigasi Cepat</strong></span>
+          </div>
+        </div>
+
+        <div class="hero-card glass">
+          <div class="panel">
+            <div class="panel-top">
+              <span>Portal Preview</span>
+              <span class="mini-pill">Active Platform</span>
+            </div>
+            <div class="promo-card">
+              <h3><strong>Main game online</strong> jadi lebih simpel</h3>
+              <p>Temukan halaman utama game, kategori populer, dan akses ke portal resmi dalam satu alur yang lebih singkat dan mudah dipahami.</p>
+            </div>
+            <div class="feature-list">
+              <div class="feature-item">
+                <div class="icon">01</div>
+                <div>
+                  <strong>Akses Lebih Praktis</strong>
+                  <div style="color: var(--muted); font-size: 0.93rem;">Pengunjung bisa langsung menuju halaman inti tanpa harus melewati terlalu banyak langkah.</div>
+                </div>
+              </div>
+              <div class="feature-item">
+                <div class="icon">02</div>
+                <div>
+                  <strong>Pilihan Game Lebih Jelas</strong>
+                  <div style="color: var(--muted); font-size: 0.93rem;">Kategori dan rekomendasi game membantu pemain menemukan permainan yang sesuai lebih cepat.</div>
+                </div>
+              </div>
+              <div class="feature-item">
+                <div class="icon">03</div>
+                <div>
+                  <strong>Pengalaman Lebih Nyaman</strong>
+                  <div style="color: var(--muted); font-size: 0.93rem;">Tata letak yang rapi membuat pengguna lebih mudah menjelajah dan langsung fokus ke permainan.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="fitur">
+      <div class="container">
+        <div class="section-head">
+          <div class="section-tag">Fitur Utama</div>
+          <h2><strong>Pulau777</strong> menghadirkan pengalaman <strong>main game online</strong> yang lebih terarah dan nyaman.</h2>
+          <p>
+            Sebagai <strong>website game online</strong>, <strong>Pulau777</strong> dibangun dengan fokus pada kemudahan akses, tampilan modern, dan alur bermain yang lebih praktis. Semua elemen utama ditempatkan secara strategis agar pengunjung bisa langsung memahami apa yang tersedia, ke mana harus masuk, dan bagaimana memulai permainan tanpa kebingungan.
+          </p>
+        </div>
+        <div class="grid-3">
+          <div class="card">
+            <div class="icon">A</div>
+            <h3><strong>Game Populer Mudah Ditemukan</strong></h3>
+            <p>Halaman utama dibuat untuk menampilkan game yang paling banyak dicari agar pemain bisa langsung menuju permainan favoritnya tanpa harus mencari terlalu lama.</p>
+          </div>
+          <div class="card">
+            <div class="icon">B</div>
+            <h3><strong>Navigasi Singkat dan Jelas</strong></h3>
+            <p>Menu utama, tombol aksi, dan susunan section dirancang agar pengunjung bisa bergerak dari halaman landing ke portal utama dengan langkah yang lebih efisien.</p>
+          </div>
+          <div class="card">
+            <div class="icon">C</div>
+            <h3><strong>Tampilan Modern dan Responsif</strong></h3>
+            <p>Baik di layar besar maupun perangkat mobile, <strong>Pulau777</strong> tetap tampil rapi sehingga pengalaman pengguna terasa konsisten dan nyaman.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="cara-main">
+      <div class="container grid-2">
+        <div>
+          <div class="section-head">
+            <div class="section-tag">Cara Main</div>
+            <h2>Mulai dari <strong>Pulau777</strong> dalam beberapa langkah yang mudah.</h2>
+            <p>
+              Untuk pemain baru, kemudahan alur adalah hal yang penting. Karena itu, <strong>landing page Pulau777</strong> dibuat agar pengunjung bisa langsung memahami langkah awal tanpa harus menebak-nebak. Semua informasi penting sudah diringkas supaya proses masuk ke portal utama menjadi lebih cepat, lebih jelas, dan terasa lebih nyaman sejak awal.
+            </p>
+          </div>
+          <div class="steps">
+            <div class="step">
+              <h3>Pilih game yang ingin dimainkan</h3>
+              <p>Jelajahi pilihan game online yang tersedia dan temukan kategori yang paling cocok dengan gaya bermain kamu.</p>
+            </div>
+            <div class="step">
+              <h3>Masuk ke portal utama</h3>
+              <p>Gunakan tombol akses yang tersedia untuk masuk ke halaman utama dan lanjut ke pengalaman bermain yang lebih lengkap.</p>
+            </div>
+            <div class="step">
+              <h3>Nikmati pengalaman bermain</h3>
+              <p>Setelah masuk, kamu bisa menjelajahi lebih banyak game, mengikuti event aktif, dan menikmati alur permainan yang lebih praktis.</p>
+            </div>
+          </div>
+        </div>
+        <div class="highlight glass">
+          <div class="section-tag">Kenapa Pilih Pulau777</div>
+          <h2 style="font-size: 2rem; margin-bottom: 8px;"><strong>Platform game online</strong> yang dibuat untuk kenyamanan pengguna.</h2>
+          <p style="margin:0; color: var(--muted);">
+            <strong>Pulau777</strong> bukan cuma fokus pada tampilan, tapi juga pada pengalaman pemain saat menjelajah halaman. Dengan struktur yang rapi, akses yang lebih cepat, dan penempatan tombol yang jelas, pengunjung bisa lebih mudah menemukan apa yang mereka butuhkan tanpa merasa halaman terlalu padat atau membingungkan.
+          </p>
+          <ul>
+            <li><strong>Tampilan bersih</strong> yang nyaman dibaca sejak halaman pertama.</li>
+            <li><strong>Alur masuk cepat</strong> menuju portal utama dan halaman game.</li>
+            <li><strong>Struktur konten rapi</strong> agar informasi penting mudah ditemukan.</li>
+            <li><strong>Pengalaman mobile lebih stabil</strong> untuk pemain yang sering akses lewat smartphone.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="keunggulan">
+      <div class="container">
+        <div class="section-head">
+          <div class="section-tag">Keunggulan</div>
+          <h2><strong>Keunggulan Pulau777</strong> sebagai <strong>situs game online</strong> modern.</h2>
+          <p>
+            Banyak pengguna mencari platform yang bukan hanya punya tampilan bagus, tetapi juga mudah dipakai. Karena itu, <strong>Pulau777</strong> menonjol lewat kombinasi desain yang modern, akses yang ringan, dan struktur halaman yang lebih terarah. Dengan pendekatan seperti ini, pemain bisa lebih fokus pada pengalaman bermain tanpa terganggu oleh navigasi yang membingungkan.
+          </p>
+        </div>
+        <div class="grid-3">
+          <div class="card">
+            <div class="icon">UX</div>
+            <h3><strong>Lebih Nyaman Dijelajahi</strong></h3>
+            <p>Susunan konten dibuat agar pemain langsung tahu ke mana harus klik, apa yang perlu dilihat, dan bagaimana masuk ke permainan dengan lebih cepat.</p>
+          </div>
+          <div class="card">
+            <div class="icon">FAST</div>
+            <h3><strong>Akses Ringan dan Cepat</strong></h3>
+            <p>Struktur halaman yang efisien membantu pengguna membuka halaman dengan lebih lancar di berbagai perangkat dan koneksi.</p>
+          </div>
+          <div class="card">
+            <div class="icon">FLOW</div>
+            <h3><strong>CTA Lebih Terarah</strong></h3>
+            <p>Tombol utama ditempatkan di titik-titik penting agar landing page ini efektif sebagai gerbang menuju portal resmi <strong>Pulau777</strong>.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="faq">
+      <div class="container">
+        <div class="section-head">
+          <div class="section-tag">FAQ</div>
+          <h2>Pertanyaan umum tentang <strong>Pulau777</strong>.</h2>
+          <p>
+            Bagian ini membantu pengunjung memahami fungsi halaman dengan lebih cepat. Selain memudahkan pengguna baru, FAQ juga membuat struktur konten jadi lebih lengkap dan relevan untuk kebutuhan <strong>SEO website game online</strong>.
+          </p>
+        </div>
+        <div class="faq">
+          <details open>
+            <summary>Apa itu Pulau777?</summary>
+            <p><strong>Pulau777</strong> adalah platform yang menghadirkan pengalaman <strong>game online</strong> dengan akses mudah, tampilan modern, dan alur navigasi yang lebih sederhana untuk pengguna baru maupun pengguna aktif.</p>
+          </details>
+          <details>
+            <summary>Apakah Pulau777 bisa dibuka di mobile?</summary>
+            <p>Ya, tampilan halaman sudah responsif sehingga tetap nyaman digunakan di smartphone, tablet, maupun desktop.</p>
+          </details>
+          <details>
+            <summary>Bagaimana cara masuk ke portal utama?</summary>
+            <p>Kamu bisa langsung menggunakan tombol CTA seperti “Masuk Sekarang” atau “Mulai Bermain” yang sudah ditempatkan di bagian atas dan bawah halaman.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta" id="daftar">
+      <div class="container">
+        <div class="cta-box glass">
+          <div class="section-tag">Start Now</div>
+          <h2>Masuk ke <strong>Pulau777</strong> dan mulai jelajahi <strong>game online</strong> favoritmu sekarang.</h2>
+          <p>
+            Kalau kamu mencari <strong>website game online</strong> dengan tampilan modern, navigasi yang jelas, dan akses yang lebih praktis ke portal utama, <strong>Pulau777</strong> bisa jadi pilihan yang tepat. Tinggal klik tombol di bawah, masuk ke portal resmi, lalu lanjutkan pengalaman bermain dengan lebih cepat dan nyaman.
+          </p>
+          <div class="hero-actions" style="justify-content:center; margin-bottom:0;">
+            <a class="btn btn-primary" href="https://pulau-daftar.com/" target="_blank" rel="nofollow noopener">Buka Portal Utama</a>
+            <a class="btn btn-outline" href="#fitur">Jelajahi Fitur</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-wrap">
+      <div>© 2026 Pulau777. All rights reserved.</div>
+      <div><strong>Pulau777</strong> - platform game online modern dengan akses cepat dan navigasi praktis.</div>
+    </div>
+  </footer>
+</body>
+</html>
